@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+    background-color: #f8d854
+
+}
+
+.heroimg {
+    display: flex;
+}
+
+.profile {
+    width: 25%;
+    height: auto;
+}
+.profile img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.mainNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+    padding: 30px 10%;
+}
+
+.Image/CC-F Logo.png {
+    width: 100%;
+    border-radius: 50%;
+}
+
+p.nav {
+    width: 73%;
+    padding: 1%;
+}
+
+.inline-blockandlogo img {
+    width: 15%;
+    height: auto;
+}
+
+ul {
+    display: inline;  
+}
+
+.bottomNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+    padding: 30px 10%;
+}
