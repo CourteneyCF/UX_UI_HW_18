@@ -26,15 +26,18 @@
     padding: 30px 10%;
 }
 
-.Image/CC-F Logo.png {
-    width: 100%;
-    border-radius: 50%;
-}
-
 p.nav {
     width: 73%;
     padding: 1%;
 }
+
+
+.sticky-top-navbar-light-bg-light {
+    width: 73%;
+    padding: 1%;
+    background-color: antiquewhite;
+}
+
 
 .inline-blockandlogo img {
     width: 15%;

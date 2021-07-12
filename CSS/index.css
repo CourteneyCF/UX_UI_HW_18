@@ -1,0 +1,101 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+    padding: 0;
+    background-color: #f8d854
+}
+
+.jumbotron {
+    width: 300px 100%;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.profilePic-img {
+    justify-content: left;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+.box1 {
+    justify-content: right;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+.box2 {
+    justify-content: right;
+    border: 5px solid black;
+    padding: 5px;
+}
+
+.navContainer {
+    width: 300px 100%;
+    border: 5px solid black;
+    padding: 0px;
+    margin: 0px;
+    text-decoration: underline;
+}
+
+
+.mainNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+    padding: 30px 10%;
+}
+
+.myWork {
+    display: flex;
+    justify-content: center;
+    width: 300px 100%;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.mySkills {
+    display: flex;
+    justify-content: center;
+    width: 300px 100%;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.cardbody {
+    width: 18px;
+    display: flex;
+    justify-content: center;
+    border: 10%;
+    border-radius: 10%;
+    background-color: grey;
+}
+
+.myself {
+    display: flex;
+    justify-content: center;
+    width: 300px 100%;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+
+.mySocials{
+    display: flex;
+    justify-content: center;
+    width: 300px 100%;
+    border: 15px solid black;
+    padding: 50px;
+    margin: 20px;
+}
+.footerNavigation {
+    display: flex;
+    justify-content: space-between;
+    align-items:center; 
+    padding: 30px 10%;
+}
+.container {
+    display: flex;
+}
