@@ -41,25 +41,6 @@ img {
     padding: 30px;
 }
 
-.figmaLogo{
-    width: 33%;
-    margin: 10px;
-    padding: 30px;
-}
-
-.miroLogo{
-    width: 33%;
-    margin: 10px;
-    padding: 30px;
-}
-
-.adobeXdLogo {
-    width: 33%;
-    margin: 10px;
-    padding: 30px;
-}
-
-
 .mainNavigation {
     display: flex;
     justify-content: space-between;
@@ -84,6 +65,25 @@ img {
     border: 15px solid black;
     padding: 50px;
     margin: 20px;
+}
+
+.figmaLogo{
+    width: 33%;
+    margin: 10px;
+    padding: 30px;
+    grid-template-columns: 25% 75%;
+}
+
+.miroLogo{
+    width: 33%;
+    margin: 10px;
+    padding: 30px;
+}
+
+.adobeXdLogo {
+    width: 33%;
+    margin: 10px;
+    padding: 30px;
 }
 
 .myself {
